@@ -3,6 +3,9 @@
 
 <img src="https://i.imgur.com/mb43T5y.png" alt="logo"/>
 
+### Demo
+- https://dartmouth.techsmithrelay.com/k5WZ
+
 #### Developers
 - GR Team 3
 - Pengze Liu, Ruibo Liu, Qijia Shao, Peixuan Wang
